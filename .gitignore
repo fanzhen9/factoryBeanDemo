@@ -1,0 +1,16 @@
+*.iml
+.idea/
+logs/
+**/target/
+/.factorypath
+/.classpath
+/.project
+
+# eclipse project file
+.classpath
+.project
+.settings
+target/
+target/*
+bin/
+bin/*
